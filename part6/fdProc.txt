@@ -1,0 +1,2 @@
+threadFunc writes to fdProc.txt
+main writes to standerd optput
